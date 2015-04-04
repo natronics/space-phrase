@@ -1,0 +1,3 @@
+var rockets = ['Ariane', 'Lambda', 'Soyuz', 'Vostok', 'Dnepr', 'Proton', 'Zenit', 'Atlas', 'Falcon', 'Juno', 'Redstone', 'Saturn', 'Delta', 'Titan', 'Vanguard', 'BlackBrant', 'Aerobee', 'Arcas'];
+var humans = ['Tsiolkovsky', 'Korolev', 'Goddard', 'Hopper', 'Hamilton', 'Lucid', 'Ride', 'Jemison', 'Tereshkova', 'Armstrong', 'Aldrin', 'Young', 'Bolden', 'Gagarin', 'Duke', 'Shepard', 'Lovell', 'Hadfield', 'Grissom'];
+var missions = ['Mercury', 'Gemini', 'Apollo', 'ISS', 'Curiosity', 'Opportunity', 'Discovery', 'Spirit', 'Voyager', 'Cassini', 'Rosetta', 'Hayabusa', 'Juno', 'Endeavour', 'Columbia', 'Stardust', 'Kepler', 'Hubble'];
