@@ -13,7 +13,8 @@ Get a [passphrase](https://xkcd.com/936/) made of famous space words, for exampl
 
 --------------------------------------------------------------------------------
 
- 1. Maybe don't actually use this for an important password, though.
+ 1. Maybe don't actually use this for an important password<sup>2</sup>
+ 2. <small>Seriously, not a lot of entropy. Still, fun though</small>
 
 
 
