@@ -1,2 +1,7 @@
-exclude: ['Makefile', 'README.markdown', 'LICENSE']
+exclude:
+ - Makefile
+ - README.markdown
+ - LICENSE
 markdown: kramdown
+highlight: rouge
+
